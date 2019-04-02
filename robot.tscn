@@ -164,7 +164,7 @@ __meta__ = {
 
 [node name="leg_l" type="Bone2D" parent="Skeleton2D/hip"]
 position = Vector2( 61.1287, -3.86896 )
-rotation = -1.21879
+rotation = -1.49961
 rest = Transform2D( 1, 0, 0, 1, 61.1287, -3.86896 )
 __meta__ = {
 "_edit_bone_": true,
@@ -173,7 +173,7 @@ __meta__ = {
 
 [node name="calf_l" type="Bone2D" parent="Skeleton2D/hip/leg_l"]
 position = Vector2( -43.5939, 113.352 )
-rotation = 1.78463
+rotation = 1.40974
 rest = Transform2D( 1, 0, 0, 1, -43.5939, 113.352 )
 __meta__ = {
 "_edit_bone_": true
@@ -181,7 +181,7 @@ __meta__ = {
 
 [node name="foot_l" type="Bone2D" parent="Skeleton2D/hip/leg_l/calf_l"]
 position = Vector2( 51.4414, 132.864 )
-rotation = -0.565693
+rotation = 0.0761813
 rest = Transform2D( 1, 0, 0, 1, 55.2048, 131.932 )
 default_length = 60.0
 __meta__ = {
